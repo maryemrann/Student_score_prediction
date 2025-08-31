@@ -1,0 +1,12 @@
+{
+  "features": [
+    "attendance",
+    "previous_scores",
+    "hours_studied",
+    "tutoring_sessions"
+  ],
+  "MAE": 1.2732122335316098,
+  "MSE": 5.069439258236873,
+  "RMSE": 2.2515415293164978,
+  "R2": 0.6413573918421556
+}
